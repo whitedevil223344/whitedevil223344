@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @whitedevil223344
-- 👀 I’m interested in penetration testing....
+- 👋 Hi, I’m @sohumvenkatadri
+- 👀 I’m interested in Artificial Intelligence, Blockchain, Web Dev
 - 📫 How to reach me 
-Instagram: white_devil680
+Instagram: @sohum__04
 
 <!---
 whitedevil223344/whitedevil223344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
